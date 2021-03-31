@@ -1,0 +1,25 @@
+[Eagle]
+Version="09 02 02"
+Platform="Mac OS X"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:325"
+UsedLibraryUrn="urn:adsk.eagle:library:348"
+UsedLibraryUrn="urn:adsk.eagle:library:371"
+UsedLibraryUrn="urn:adsk.eagle:library:532"
+UsedLibraryUrn="urn:adsk.eagle:library:513"
+UsedLibraryUrn="urn:adsk.eagle:library:116"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/HIROSE - DF40C-80DS-0.4V(51).lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/IRF530.lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/IRF9530.lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/JST - B5B-XH-A(LF)(SN).lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/ULN2003A.lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/arduino.lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/knitter_switch.lbr"
+UsedLibrary="/Users/giovanni/Documents/EAGLE/libraries/xbee.lbr"
+
+[Desktop]
+Screen="3200 1197"
