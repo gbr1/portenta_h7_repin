@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.2.2">
+<eagle version="9.6.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1446,7 +1446,7 @@ DIN A3, landscape with location and doc. field</description>
 <text x="289.56" y="7.62" size="2.54" layer="91">Giovanni di Dio Bruno
 gbr1.github.io
 giovannididio.bruno@gmail.com</text>
-<text x="375.92" y="5.08" size="2.54" layer="91">v1.0</text>
+<text x="375.92" y="5.08" size="2.54" layer="91">v1.1</text>
 <text x="345.44" y="20.32" size="2.54" layer="91">GPL v3.0</text>
 </plain>
 <instances>
@@ -1811,9 +1811,9 @@ giovannididio.bruno@gmail.com</text>
 <label x="309.88" y="132.08" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="J1" gate="A" pin="25"/>
-<wire x1="33.02" y1="116.84" x2="40.64" y2="116.84" width="0.1524" layer="91"/>
-<label x="40.64" y="116.84" size="1.778" layer="95" xref="yes"/>
+<pinref part="J1" gate="A" pin="17"/>
+<wire x1="33.02" y1="157.48" x2="40.64" y2="157.48" width="0.1524" layer="91"/>
+<label x="40.64" y="157.48" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="J1-35" class="0">
@@ -1823,9 +1823,9 @@ giovannididio.bruno@gmail.com</text>
 <label x="320.04" y="129.54" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
-<pinref part="J1" gate="A" pin="26"/>
-<wire x1="33.02" y1="111.76" x2="40.64" y2="111.76" width="0.1524" layer="91"/>
-<label x="40.64" y="111.76" size="1.778" layer="95" xref="yes"/>
+<pinref part="J1" gate="A" pin="18"/>
+<wire x1="33.02" y1="152.4" x2="40.64" y2="152.4" width="0.1524" layer="91"/>
+<label x="40.64" y="152.4" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="J1-46" class="0">

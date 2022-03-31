@@ -1,10 +1,16 @@
 # Portenta H7 *Repin*
+
 A simple board to use Portenta without soldering pin headers.
+
+![image](./3d_model/photo_0.png) <br>
+![image](./3d_model/photo_1.png) <br>
+![image](./3d_model/photo_2.png) <br>
 
 It also exposes SWD ST-Link pins in the same order of Nucleo-64 boards, so you can use to debug.
 <br>
 ![https://user-images.githubusercontent.com/9216366/113178235-acd9ee80-924e-11eb-9802-ceda02b8f7f0.png](https://user-images.githubusercontent.com/9216366/113178235-acd9ee80-924e-11eb-9802-ceda02b8f7f0.png)
 <br>
+
 ### BOM:
 
 you only need 2 DF40HC(3.5)-80DS-0.4V(51) and 2 1x14 pins headers.
